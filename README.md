@@ -25,6 +25,12 @@ AI product engineering — building AI features into real products.
 - **[LMS](https://github.com/randhirsingh77/lms)** — Learning Management System (JavaScript)
 - **[Food Delivery](https://github.com/randhirsingh77/Food-Delivery)** — food-delivery web project (HTML/CSS/JS)
 
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=randhirsingh77&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=randhirsingh77&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=randhirsingh77&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## 📫 Reach me
 
 Through GitHub — or find me on Naukri (Sardar Randhir Singh, New Delhi).
