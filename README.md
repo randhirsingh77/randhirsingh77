@@ -22,8 +22,9 @@ AI product engineering — building AI features into real products.
 
 ## 📌 My projects
 
+- **[Portfolio Website](https://github.com/randhirsingh77/portfolio)** — my personal portfolio · 🌐 [live site](https://randhirsingh77.github.io/portfolio/)
 - **[LMS](https://github.com/randhirsingh77/lms)** — Learning Management System (JavaScript)
-- **[Food Delivery](https://github.com/randhirsingh77/Food-Delivery)** — food-delivery web project (HTML/CSS/JS)
+- **[Food Delivery](https://github.com/randhirsingh77/Food-Delivery)** — food-delivery web project (HTML/CSS)
 
 ## 📊 GitHub Stats
 
