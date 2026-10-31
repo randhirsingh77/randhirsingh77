@@ -25,6 +25,7 @@ AI product engineering — building AI features into real products.
 - **[Portfolio Website](https://github.com/randhirsingh77/portfolio)** — my personal portfolio · 🌐 [live site](https://randhirsingh77.github.io/portfolio/)
 - **[LMS](https://github.com/randhirsingh77/lms)** — Learning Management System (JavaScript)
 - **[Foodie — Food Delivery Platform](https://github.com/randhirsingh77/Food-Delivery)** — full-stack food-delivery platform (React, TypeScript, Node.js, MongoDB) with live order tracking · **[Live demo](https://foodie-tvna.onrender.com)**
+- **[Sarthi](https://github.com/randhirsingh77/sarthi)** — Currently planning: an AI chat app for Indian students (build starts Nov 2026)
 
 ## 📊 GitHub Stats
 
